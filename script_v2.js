@@ -9,7 +9,7 @@ $(document).ready(function () {
   });
 
   // feather icons
-  feather.replace();
+  //feather.replace();
 
   // smooth scroll
   var scroll = new SmoothScroll('a[href*="#"]');
